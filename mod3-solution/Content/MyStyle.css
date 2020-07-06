@@ -1,0 +1,38 @@
+﻿body {
+    background-color: palevioletred;
+    font-size: 16px;
+    color: #fff;
+    background-color: #84a8fe;
+    font-family: Tahoma, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+#header-nav {
+    background-color: #85c7f3;
+    border:0;
+    border-radius:0;
+}
+
+#logo-mela {
+    background-image: url('../Images/ComidaChapina.png');
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
+#nav-list {
+    margin-top: 10px;
+}
+    #nav-list a {
+        text-align: center;
+    }
+    #nav-list a:hover {
+        background-color:#73e2bd ;
+    }
+
+.navbar-header button.navbar-toggle {
+    clear:both;
+}
